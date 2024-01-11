@@ -1,0 +1,184 @@
+{
+  "songs": [
+    {
+      "bg": "#5733FF",
+      "artist": "Qesem",
+      "songName": "Naxcivanim",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F13.mp3?alt=media&token=b1ea1a8c-13cb-44ca-adca-6f3de31b3e07",
+        "cover": "https://i.ibb.co/mJdLxn9/h7r7s-EFF0-Gs13t-PJq-Ck51vf-XHhe7g-HJtd-2e-V9745ht-Ljue-Cm9-jq-Bz-Ob-Qkk-Jk-S4-P2-Fko-EYTNfs-s900-c.jpg"
+      }
+    },
+    {
+      "bg": "#FF5733",
+      "artist": "Nuray Kardashov",
+      "songName": "Selale Dilare",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F14.mp3?alt=media&token=63c8721c-abcf-41f2-8403-524bc5a1bc27",
+        "cover": "https://i.ibb.co/XjmXBQt/sddefault.jpg"
+      }
+    },
+    {
+      "bg": "#33FF57",
+      "artist": "Uzeyir mehdizade",
+      "songName": "Atam Menim",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F15.mp3?alt=media&token=27b74dbc-f812-4fd9-9e38-24ceb399218d",
+        "cover": "https://i.ibb.co/1sSSTSK/uzeyir-mehdizadeh-atam-menim.jpg"
+      }
+    },
+    {
+      "bg": "#5733FF",
+      "artist": "Banu",
+      "songName": "Sevdim Onu",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F16.mp3?alt=media&token=1b75978c-2a77-46f2-9fd7-7550ddb63999",
+        "cover": "https://i.ibb.co/NKZWPDJ/maxresdefault.jpg"
+      }
+    },
+    {
+      "bg": "#5733FF",
+      "artist": "Murad Agdaml Irade Qarabagli",
+      "songName": "Sen Olmusan",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F17.mp3?alt=media&token=d6a5f3bb-221b-4173-afd2-0c028ce6525e",
+        "cover": "https://i.ibb.co/9gZ61CN/maxresdefault.jpg"
+      }
+    },
+    {
+      "bg": "#5733FF",
+      "artist": "Åžebnem Tovuzlu",
+      "songName": "Hemin AÄŸrÄ±lar",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F18.mp3?alt=media&token=61b09d9a-c36e-4942-9d8e-d707f3a414ab",
+        "cover": "https://i.ibb.co/HDmk724/baadbd70-8141-4861-911b-cc2cc63a59a4.jpg"
+      }
+    },
+    {
+      "bg": "#FF5733",
+      "artist": "Xeyale Tovuzlu",
+      "songName": "Canim Menim",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F19.mp3?alt=media&token=f8ff5c9e-c8c3-4949-a4bd-8961c4e34590",
+        "cover": "https://i.ibb.co/hWN6LFN/maxresdefault.jpg"
+      }
+    },
+    {
+      "bg": "#33FF57",
+      "artist": "DÃ¼z KÃ¶ynÉ™yinÉ™",
+      "songName": "Damla",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F20.mp3?alt=media&token=f8388a4f-1826-4323-bd4d-e18e7a5a24e5",
+        "cover": "https://i.ibb.co/DCbTjSJ/maxresdefault.jpg"
+      }
+    },
+    {
+      "bg": "#33FF57",
+      "artist": "Sohret Memmedov",
+      "songName": "Allahim",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/1.mp3?alt=media&token=6e5a4aed-fa2b-4aaa-a9e8-2cadf1a5b577",
+        "cover": "https://avatars.yandex.net/get-music-content/2810397/5f50d3e8.a.11976755-1/200x200"
+      }
+    },
+    {
+      "bg": "#5733FF",
+      "artist": "Mahmud Mikayilli",
+      "songName": "Heyif",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F8.mp3?alt=media&token=5c6b7e67-55d7-4728-853b-7831949a52b3",
+        "cover": "https://i.ibb.co/7b6zQQJ/maxresdefault.jpg"
+      }
+    },
+    {
+      "bg": "#FF5733",
+      "artist": "Ð­Ð»ÑŒÐ²Ð¸Ð½ Ð“Ñ€. ÐšÐ°Ð²ÐºÐ°Ð·",
+      "songName": "Ð¨Ð° Ð·Ð¸ Ð¿Ð°Ñ‚Ð°Ð² Ð±ÑƒÐ»Ð°Ñ…Ð´Ð°Ð»",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F9.mp3?alt=media&token=0b596938-75cb-461b-8cbf-e185a73bc549",
+        "cover": "https://i.ibb.co/c87bm0K/1824958287-887876841-1314106447.jpg"
+      }
+    },
+    {
+      "bg": "#FF5733",
+      "artist": "Xumar QÉ™dimova",
+      "songName": "AyrÄ±ldÄ±q",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F10.mp3?alt=media&token=784dde3a-8452-4b63-accb-bf819922fda9",
+        "cover": "https://i.ibb.co/wBGMsxC/maxresdefault.jpg"
+      }
+    },
+    {
+      "bg": "#5733FF",
+      "artist": "Alisan",
+      "songName": "Hele bi",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F11.mp3?alt=media&token=6ac3a850-ab05-4e75-b55c-37c485c11484",
+        "cover": "https://i.ibb.co/p3D8d35/artworks-u-Q9c1os2-Qqivj6-Zv-Oi-XJx-A-t500x500.jpg"
+      }
+    },
+    {
+      "bg": "#FF5733",
+      "artist": "Miro",
+      "songName": "NÉ™ isÉ™",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F12.mp3?alt=media&token=38f116be-f431-4268-816d-2096ddb75b5b",
+        "cover": "https://i.ibb.co/YQD4Tfk/600x600bf-60.jpg"
+      }
+    },
+    {
+      "bg": "#FF5733",
+      "artist": "GÃ¼nel MÉ™hÉ™rrÉ™mova feat MirÉ™lÉ™m MirÉ™lÉ™movun",
+      "songName": "YaÅŸandÄ± Bitd",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/4.mp3?alt=media&token=610be392-9bb6-4bff-add6-49be3381c4ef",
+        "cover": "https://i.ytimg.com/vi/UzlIzpzQQFM/maxresdefault.jpg"
+      }
+    },
+    {
+      "bg": "#33FF57",
+      "artist": "UlviyyÉ™ Namazova",
+      "songName": "Ä°lk EÅŸqim",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/5.mp3?alt=media&token=108a58d0-4045-49ac-a95f-9460501a802f",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27340e5d661448b41a0f2c057c2"
+      }
+    },
+    {
+      "bg": "#33FF57",
+      "artist": "NÉ™fÉ™s & ZeynÉ™b HÉ™sÉ™ni",
+      "songName": "Leyli",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/6.mp3?alt=media&token=045427c2-d5c6-43ac-bead-21679f0d7303",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/70/27/b1/7027b1f7-0d5a-4cd8-ca29-ef80d66a1eae/cover.jpg/600x600bf-60.jpg"
+      }
+    },
+    {
+      "bg": "#33FF57",
+      "artist": "Ilkin Cerkezoglu",
+      "songName": "Sen Geden Gunden",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/7.mp3?alt=media&token=2d1f119a-5c63-4ba5-a4ef-c80ebb3bb681",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/44/42/e944423f-b2d2-6052-2eef-a32563a763a3/cover.jpg/1200x1200bb.jpg"
+      }
+    },
+    {
+      "bg": "#5733FF",
+      "artist": "ÅžÉ™bnÉ™m Tovuzlu",
+      "songName": "QarabaÄŸ AzÉ™rbaycandÄ±r ",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/2.mp3?alt=media&token=fe42f070-e789-4414-8a1c-e056762df935",
+        "cover": "https://i.ytimg.com/vi/b2xr6_2wyIQ/maxresdefault.jpg"
+      }
+    },
+    {
+      "bg": "#33FF57",
+      "artist": "Ã‡ingiz Mustafayev",
+      "songName": "Can Can",
+      "files": {
+        "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/3.mp3?alt=media&token=5158713f-b850-4cb7-8b2e-a54254834020",
+        "cover": "https://dl3.vidao.org/uploads/2020/12/9ea1ec006695467dadc3fed0af60169a.jpg"
+      }
+    }
+  ]
+}
