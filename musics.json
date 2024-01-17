@@ -1,7 +1,7 @@
 {
   "songs": [
     {
-      "bg": "#5733FF",
+      "bg": "#ececec",
       "artist": "Qesem",
       "songName": "Naxcivanim",
       "files": {
@@ -10,7 +10,7 @@
       }
     },
     {
-      "bg": "#FF5733",
+      "bg": "#ececec",
       "artist": "Nuray Kardashov",
       "songName": "Selale Dilare",
       "files": {
@@ -19,7 +19,7 @@
       }
     },
     {
-      "bg": "#33FF57",
+      "bg": "#ececec",
       "artist": "Uzeyir mehdizade",
       "songName": "Atam Menim",
       "files": {
@@ -28,7 +28,7 @@
       }
     },
     {
-      "bg": "#5733FF",
+      "bg": "#ececec",
       "artist": "Banu",
       "songName": "Sevdim Onu",
       "files": {
@@ -37,7 +37,7 @@
       }
     },
     {
-      "bg": "#5733FF",
+      "bg": "#ececec",
       "artist": "Murad Agdaml Irade Qarabagli",
       "songName": "Sen Olmusan",
       "files": {
@@ -46,7 +46,7 @@
       }
     },
     {
-      "bg": "#5733FF",
+      "bg": "#ececec",
       "artist": "Åžebnem Tovuzlu",
       "songName": "Hemin AÄŸrÄ±lar",
       "files": {
@@ -55,7 +55,7 @@
       }
     },
     {
-      "bg": "#FF5733",
+      "bg": "#ececec",
       "artist": "Xeyale Tovuzlu",
       "songName": "Canim Menim",
       "files": {
@@ -64,8 +64,8 @@
       }
     },
     {
-      "bg": "#33FF57",
-      "artist": "DÃ¼z KÃ¶ynÉ™yinÉ™",
+      "bg": "#ececec",
+      "artist": "Düz Köynəyinə",
       "songName": "Damla",
       "files": {
         "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F20.mp3?alt=media&token=f8388a4f-1826-4323-bd4d-e18e7a5a24e5",
@@ -73,7 +73,7 @@
       }
     },
     {
-      "bg": "#33FF57",
+      "bg": "#ececec",
       "artist": "Sohret Memmedov",
       "songName": "Allahim",
       "files": {
@@ -82,7 +82,7 @@
       }
     },
     {
-      "bg": "#5733FF",
+      "bg": "#ececec",
       "artist": "Mahmud Mikayilli",
       "songName": "Heyif",
       "files": {
@@ -91,25 +91,25 @@
       }
     },
     {
-      "bg": "#FF5733",
-      "artist": "Ð­Ð»ÑŒÐ²Ð¸Ð½ Ð“Ñ€. ÐšÐ°Ð²ÐºÐ°Ð·",
-      "songName": "Ð¨Ð° Ð·Ð¸ Ð¿Ð°Ñ‚Ð°Ð² Ð±ÑƒÐ»Ð°Ñ…Ð´Ð°Ð»",
+      "bg": "#ececec",
+      "artist": "Эльвин Гр. Кавказ",
+      "songName": "Ша зи патав булахдал",
       "files": {
         "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F9.mp3?alt=media&token=0b596938-75cb-461b-8cbf-e185a73bc549",
         "cover": "https://i.ibb.co/c87bm0K/1824958287-887876841-1314106447.jpg"
       }
     },
     {
-      "bg": "#FF5733",
-      "artist": "Xumar QÉ™dimova",
-      "songName": "AyrÄ±ldÄ±q",
+      "bg": "#ececec",
+      "artist": "Xumar Qədimova",
+      "songName": "Ayrıldıq",
       "files": {
         "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F10.mp3?alt=media&token=784dde3a-8452-4b63-accb-bf819922fda9",
         "cover": "https://i.ibb.co/wBGMsxC/maxresdefault.jpg"
       }
     },
     {
-      "bg": "#5733FF",
+      "bg": "#ececec",
       "artist": "Alisan",
       "songName": "Hele bi",
       "files": {
@@ -118,35 +118,35 @@
       }
     },
     {
-      "bg": "#FF5733",
+      "bg": "#ececec",
       "artist": "Miro",
-      "songName": "NÉ™ isÉ™",
+      "songName": "Nə isə",
       "files": {
         "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/music%2F12.mp3?alt=media&token=38f116be-f431-4268-816d-2096ddb75b5b",
         "cover": "https://i.ibb.co/YQD4Tfk/600x600bf-60.jpg"
       }
     },
     {
-      "bg": "#FF5733",
-      "artist": "GÃ¼nel MÉ™hÉ™rrÉ™mova feat MirÉ™lÉ™m MirÉ™lÉ™movun",
-      "songName": "YaÅŸandÄ± Bitd",
+      "bg": "#ececec",
+      "artist": "Günel Məhərrəmova feat Mirələm Mirələmovun",
+      "songName": "Yaşandı Bitd",
       "files": {
         "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/4.mp3?alt=media&token=610be392-9bb6-4bff-add6-49be3381c4ef",
         "cover": "https://i.ytimg.com/vi/UzlIzpzQQFM/maxresdefault.jpg"
       }
     },
     {
-      "bg": "#33FF57",
-      "artist": "UlviyyÉ™ Namazova",
-      "songName": "Ä°lk EÅŸqim",
+      "bg": "#ececec",
+      "artist": "Ulviyyə Namazova",
+      "songName": "İlk Eşqim",
       "files": {
         "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/5.mp3?alt=media&token=108a58d0-4045-49ac-a95f-9460501a802f",
         "cover": "https://i.scdn.co/image/ab67616d0000b27340e5d661448b41a0f2c057c2"
       }
     },
     {
-      "bg": "#33FF57",
-      "artist": "NÉ™fÉ™s & ZeynÉ™b HÉ™sÉ™ni",
+      "bg": "#ececec",
+      "artist": "Nəfəs & Zeynəb Həsəni",
       "songName": "Leyli",
       "files": {
         "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/6.mp3?alt=media&token=045427c2-d5c6-43ac-bead-21679f0d7303",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "bg": "#33FF57",
+      "bg": "#ececec",
       "artist": "Ilkin Cerkezoglu",
       "songName": "Sen Geden Gunden",
       "files": {
@@ -163,17 +163,17 @@
       }
     },
     {
-      "bg": "#5733FF",
-      "artist": "ÅžÉ™bnÉ™m Tovuzlu",
-      "songName": "QarabaÄŸ AzÉ™rbaycandÄ±r ",
+      "bg": "#ececec",
+      "artist": "Şəbnəm Tovuzlu",
+      "songName": "Qarabağ Azərbaycandır",
       "files": {
         "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/2.mp3?alt=media&token=fe42f070-e789-4414-8a1c-e056762df935",
         "cover": "https://i.ytimg.com/vi/b2xr6_2wyIQ/maxresdefault.jpg"
       }
     },
     {
-      "bg": "#33FF57",
-      "artist": "Ã‡ingiz Mustafayev",
+      "bg": "#ececec",
+      "artist": "Çingiz Mustafayev",
       "songName": "Can Can",
       "files": {
         "song": "https://firebasestorage.googleapis.com/v0/b/azertv-d569f.appspot.com/o/3.mp3?alt=media&token=5158713f-b850-4cb7-8b2e-a54254834020",
